@@ -1,0 +1,1 @@
+# hacs-plugin-test
